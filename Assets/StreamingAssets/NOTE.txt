@@ -1,0 +1,1 @@
+Certificate (cert.pem, key.pem) for development purposes, created via mkcert.
